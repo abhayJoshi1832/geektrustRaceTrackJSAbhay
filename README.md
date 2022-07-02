@@ -1,4 +1,4 @@
-#Problem statement
+# Problem statement
 https://www.geektrust.com/coding/detailed/racetrack-management
  Context
 
@@ -10,16 +10,16 @@ GeekRacers offer 2 types of tracks:
      Regular, it allows all types of vehicles to race on it. 
      VIP, it can only be used by cars and SUVs. 
 
- Booking Fee
- The fee differs based on the type of race track and the type of vehicle. 
-Race Track Type	Vehicle Type	No. of Vehicles allowed	Cost Per Hour
- REGULAR	 BIKE	 4	 60
- REGULAR	 CAR	 2	 120
- VIP	 CAR	 1	 250
- REGULAR	 SUV	 2	 200
- VIP	 SUV	 1	 300
+Booking Fee
+    The fee differs based on the type of race track and the type of vehicle. 
+    Race Track Type	Vehicle Type	No. of Vehicles allowed	Cost Per Hour
+    REGULAR	 BIKE	 4	 60
+    REGULAR	 CAR	 2	 120
+    VIP	 CAR	 1	 250
+    REGULAR	 SUV	 2	 200
+    VIP	 SUV	 1	 300
 
-  Booking Rules
+Booking Rules
 
      The race track has to be booked for a minimum of 3 Hrs per vehicle.  
      By default, all the vehicles can book only a regular race track. 
