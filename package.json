@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node geektrust.js",
-    "test": "mocha"
+    "test": "jest"
   },
   "author": "geektrust",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^10.0.0"
+    "jest": "^28.1.2",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.16"
   }
 }

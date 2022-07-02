@@ -1,0 +1,1 @@
+"{\"minEntry\":0,\"maxEntry\":240,\"maxExit\":420,\"addCost\":50,\"minExtraTime\":15,\"minBookingTime\":180,\"bikeSize\":4,\"carSize\":3,\"suvSize\":3,\"minBillableHours\":3,\"regularTracks\":{\"CAR\":2,\"SUV\":2,\"BIKE\":4},\"vipTracks\":{\"CAR\":1,\"SUV\":1,\"BIKE\":0},\"regularCost\":{\"CAR\":120,\"SUV\":200,\"BIKE\":60},\"vipCost\":{\"CAR\":250,\"SUV\":300,\"BIKE\":0}}"
